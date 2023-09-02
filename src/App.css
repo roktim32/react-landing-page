@@ -46,6 +46,7 @@ li a {
   text-decoration: none;
   color: black;
 }
+
 .hero {
   display: flex;
   align-items: center;
@@ -63,6 +64,7 @@ li a {
   font-size: 108px;
   line-height: 102px;
 }
+
 .hero p {
   font-weight: 600;
   color: var(--gray);
